@@ -41,5 +41,5 @@
 <br>
 
 ## Run
-<p>To run the application you'll need to build it using Visual Studio (v19+) with C/C++ Development Extension downloaded</p>
+<p>To run the application you'll need to build it using Visual Studio (v19+) with the Windows Desktop Development extension.</p>
  
